@@ -20,8 +20,6 @@ All exercises are implemented in **C**, focusing on foundational programming con
 
 ## 📂 Repository Structure
 
-## 📂 Repository Structure
-
 ```bash
 .
 ├── Docs/                   # PDF files of exercise lists
