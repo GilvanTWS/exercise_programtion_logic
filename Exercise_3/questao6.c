@@ -14,7 +14,7 @@ printf("%d! = ",a);
             printf("*");
         }
     }
-    printf ("=%d", fat);
+    printf (" = %d", fat);
     }
     else {
         printf("Digite um numero valido");

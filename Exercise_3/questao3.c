@@ -1,17 +1,15 @@
 #include <stdio.h>
 int main()
 {
-    int a, i = 1;
+    int a, i;
+    int numero = 1;
+    printf("digite quantos impares vc deseja:\n");
     scanf("%d", &a);
-    if (a % 2 == 0)
-        {
-        a = a + 1;
-        }
-        for (i = 1; i < a; i += 2)
-        {
-            printf("%d ", i);
-        }
-
+    for (i = 0; i < a; i++)
+    {
+        printf("%d\n", numero);
+        numero += 2;
+    }
     return 0;
 }
 // Faça um programa que receba um número n e imprima os n primeiros números
